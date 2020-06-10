@@ -2,7 +2,7 @@
 
 **version 1.0.0**
 
-     Converting image text into editable text & reading the image text
+     Generating Certificates for listed persons from firebase database. 
 
 ---
 
@@ -14,7 +14,7 @@
 
 ##LICENSE & COPYRIGHTS
 
-   **© Vigneshwar A S, ReaderAssistant**
+   **© Vigneshwar A S, Certificate Generator**
 
-Licesed Under the MIT LICENSE.
+Licesed Under the MIT LICENCSE.
 ---    
