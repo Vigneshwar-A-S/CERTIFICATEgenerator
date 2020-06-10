@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733403856707",
+    "firebase_url": "https://iste-certificate-generator.firebaseio.com",
+    "project_id": "iste-certificate-generator",
+    "storage_bucket": "iste-certificate-generator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733403856707:android:762c29199370fdbdf239f6",
+        "android_client_info": {
+          "package_name": "com.example.istecertification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733403856707-1lmgg3sjrs3okkqbqv717de6ganenl0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdyQUDwkUDdzKP_MO95zk71O7LnSaOM_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733403856707-1lmgg3sjrs3okkqbqv717de6ganenl0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
